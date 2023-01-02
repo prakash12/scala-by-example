@@ -1,9 +1,7 @@
 ### Scala template
-*.class
-*.log
+.bsp
 target
 .idea/
 project
-.bsp
 
 
